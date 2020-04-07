@@ -38,3 +38,4 @@ class LoginPage : AppCompatActivity() {
         }
     }
 }
+/*10117152 - M Izzudin Wijaya - 6 April 2020*/

@@ -26,3 +26,5 @@ class Home : AppCompatActivity() {
         }
     }
 }
+/*10117152 - M Izzudin Wijaya - 7 April 2020*/
+
